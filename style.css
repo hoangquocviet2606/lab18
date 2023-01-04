@@ -1,19 +1,16 @@
 .bg-img1 {
-  background-color: black;
   background-size: cover;
   background-image: url("img-1.jpg");
   height: 100vh;
 }
 
 .bg-img2 {
-  background-color: red;
   background-size: cover;
   background-image: url("img-2.jpg");
   height: 100vh;
 }
 
 .bg-img3 {
-  background-color: blue;
   background-size: cover;
   background-image: url("img-3.jpg");
   height: 100vh;
